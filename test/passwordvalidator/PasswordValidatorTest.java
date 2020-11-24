@@ -25,13 +25,13 @@ public class PasswordValidatorTest {
     @Before
     public void setUp() {
         // Add any logic you want to have prior to running each test case
-        System.out.println("This will run before every test case!!");
+       // System.out.println("This will run before every test case!!");
     }
 
     @After
     public void tearDown() {
         // Add any logic you want to have after the execution of each test case
-        System.out.println("This will run after every test case!!");
+       // System.out.println("This will run after every test case!!");
     }
 
     /**
