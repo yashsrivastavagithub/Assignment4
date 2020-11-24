@@ -71,7 +71,7 @@ public class PasswordValidatorTest {
      */
     @Test
     public void testCheckLengthBoundary() { 
-        System.out.println("checkLengthBad");
+        System.out.println("checkLengthBoundary");
         String pass = "qwertyui";
         boolean expResult = true;
         
